@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FlavorMetrics Logo](https://via.placeholder.com/200x60/EF4444/FFFFFF?text=FlavorMetrics)
+![FlavorMetrics Login](screenshots/login-page.png)
 
 **Data-Driven Restaurant Management That Boosts Profits by 23%**
 
